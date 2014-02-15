@@ -1,5 +1,8 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" Maintainer: 
+" Maintainer:
+"       Sagar Singh
+"
+" Original Maintainer: 
 "       Amir Salihefendic
 "       http://amix.dk - amix@amix.dk
 "
